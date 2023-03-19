@@ -10,4 +10,5 @@ int main(voide){
 	printf("Size of a long int: %lu", (unsigned long)sizeof(moy));
 	printf("Size of a long long int: %lu", (unsigned long)sizeof(prix));
 	printf("Size of a float: %lu", (unsigned long)sizeof(electron));
+	return (0);
 }
